@@ -10,7 +10,12 @@
 * After the OS writes to the SD card, there is a FAT32 partition named `BOOT`, open `system.cfg` file with `Notpad`, `Notpad++` or `VSCode`.
 <br/><img src=https://github.com/bigtreetech/CB1/blob/master/Images/system.png width="800"/><br/>
 * Set `WIFI_SSID` as your actual wifi name and `WIFI_PASSWD` as your actual wifi password, The space character can be parsed normally without additional escape character.<br/>
-<br/><img src=https://github.com/bigtreetech/CB1/blob/master/Images/wifi.png width="800"/><br/>
+<br/><img src=https://github.com/bigtreetech/CB1/blob/master/Images/wifi.png width="800"/><br/>  
+
+* Then power on the btt pi, go to the backend of your router, look for a device named `BTT-CB1`, remember this IP address,  
+and use tools such as `putty` or `MobaXterm`.  
+
+* Make ssh connection
 
 ## Connect the motherboard and EBB    
 * Connect the motherboard to the Pi using a USB cable
