@@ -32,11 +32,14 @@ and use tools such as `putty` or `MobaXterm`.
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect2.png width="800"/><br/>    
 
 * Then connect to EBB canbus and enter this command again
+    * It should be noted that the EBB canbus needs to be shorted to 120R, otherwise it cannot be connected.
+    * <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/120R.png width="600"/><br/>   
     * ```python3 flash_can.py -i can0 -q```
 
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect3.png width="800"/><br/>  
 
 * This is the UUID of EBB canbus, Copy it and paste it here.
+
 
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect4.png width="800"/><br/>    
 
