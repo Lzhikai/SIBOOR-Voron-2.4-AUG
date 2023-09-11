@@ -9,6 +9,7 @@
 * [Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/PRO446.md) ,Octopus motherboard wiring diagram.
 
 # Things to note
+## Initial calibration settings Docs : [Vorondesign](https://docs.vorondesign.com/build/startup/)
 ## The short circuit position required by canbus
 * Red is the position where the jumper cap needs to be inserted, and green is the position of the PT1000 thermal DIP switch.
 * <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/canbus1.jpg width="600"/><br/>
