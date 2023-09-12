@@ -8,6 +8,9 @@
 
 * [Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/PRO446.md) ,Octopus motherboard wiring diagram.
 
+* [Voron 2.4r2 PG7 Cable Gland and Endstop](https://www.printables.com/model/325765-voron-24r2-pg7-cable-gland-and-endstop)
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Y-canbus.png width="300"/><br/>
+
 # Things to note
 ## [Download](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf) official assembly instructions
 ## Initial calibration settings Docs : [Vorondesign](https://docs.vorondesign.com/build/startup/)
