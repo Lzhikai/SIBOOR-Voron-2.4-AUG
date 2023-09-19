@@ -6,8 +6,8 @@
 # Kit related information
 * [Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/connection.md) ,Connection steps between motherboard and canbus.  
 
-* [Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/PRO446.md) ,Octopus motherboard wiring diagram.
-
+* [Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg) ,Octopus motherboard wiring diagram.
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="380"/><br/>
 * [Voron 2.4r2 PG7 Cable Gland and Endstop](https://www.printables.com/model/325765-voron-24r2-pg7-cable-gland-and-endstop)
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Y-canbus.png width="300"/><br/>
 
