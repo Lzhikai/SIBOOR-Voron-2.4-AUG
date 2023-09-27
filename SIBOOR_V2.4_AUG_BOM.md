@@ -1,7 +1,7 @@
-##This list only for reference.
-##Under special situations, parts will updated to same level and quality products.
+## This list only for reference.  
+## Under special situations, parts will updated to same level and quality products.
 
-| Form                 | Part Description[300 Model]:                                     | Part Description[350 Model]:                          | Note                | Qty: |
+| Form                 | Part Description[300 Model]                                     | Part Description[350 Model]                          | Note                | Qty |
 |----------------------|------------------------------------------------------------------|-------------------------------------------------------|---------------------|------|
 | In the tools box     | M5x40 SHCS                                                       | See left side                                         | 10.9 Nickel plating | 26   |
 | In the tools box     | M5x30 BHCS                                                       | See left side                                         | 10.9 Nickel plating | 26   |
