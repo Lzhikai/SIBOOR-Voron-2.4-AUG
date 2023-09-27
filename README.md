@@ -4,6 +4,7 @@
 * **The pi built-in system has been matched with the motherboard and canbus. If there are no abnormalities, please do not upgrade the version at will.**
 
 # Kit related information
+* **SIBOOR-Voron-2.4-AUG: [Bom](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/SIBOOR_V2.4_AUG_BOM.md)**  
 * **[Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/connection.md) ,Connection steps between motherboard and canbus.**  
 
 * **[Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg) ,Octopus motherboard wiring diagram.**
