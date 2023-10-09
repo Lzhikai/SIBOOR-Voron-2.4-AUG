@@ -1,7 +1,7 @@
 # SIBOOR-Voron-2.4-AUG
 ### BTT links :[Octopus Pro(446)](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro)+[BTT Pi](https://github.com/bigtreetech/BTT-Pi) + [CAN RP2040](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2209%20CAN%20(RP2040))  
 ##
-* **The pi built-in system has been matched with the motherboard and canbus. If there are no abnormalities, please do not upgrade the version at will. [(System)](https://drive.google.com/file/d/1daq4SNZ8F1pRZPPeawMDijzkVxGPcTsC/view?usp=drive_link)**
+* **The pi built-in system has been matched with the motherboard and canbus. If there are no abnormalities, please do not upgrade the version at will. [(System)](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing)**
 
 # Kit related information
 * **SIBOOR-Voron-2.4-AUG: [Bom](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/SIBOOR_V2.4_AUG_BOM.md)**  
