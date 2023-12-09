@@ -1,6 +1,6 @@
 # SIBOOR-Voron-2.4-AUG
 
-## Assembly Guide
+## Assembly Guide，Please read in the order presented on this page.
 
 ### 1. Assembly Manual 2.4r2
 - [Assembly_Manual 2.4r2 SIBOOR Annotation Version.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Manual/Assembly_Manual_2.4r2%EF%BC%88SIBOOR%20Annotation%20Version%EF%BC%89.pdf)  
@@ -10,6 +10,7 @@
 - Green-highlighted sections denote variances between SIBOOR V2.4 [AUG] and VORON's official BOM.
 
 - Red-highlighted sections indicate differences in metal structural components between SIBOOR V2.4 [AUG] and VORON's official BOM.
+  
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page(16).jpg width="1080"/><br/>
   
 
@@ -29,13 +30,19 @@
 
 - So they will need to be secured with M3x12 and M3x16 SHCS:  
 <br/><img src=https://github.com/VoronDesign/Voron-Tap/blob/main/images/RC8/RC8_rail.png width="520"/><br/>
-(The top is still secured by M3x6 SHCS)  
+(The top is still secured by M3x6 SHCS)
+
+-After completing the TAP module, go directly to page 132 of the "Assembly_Manual 2.4r2 SIBOOR Annotation Version.pdf.
 
 ### 3. Stealthburner Assembly Tutorial
 - [Assembly_Manual_Stealthburner.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Manual/Assembly_Manual_SB%EF%BC%88SIBOOR%20Annotation%20Version%EF%BC%89.pdf)
+  
 - Install the heating rod and thermistor.
+  
 - Set up the CAN board, illustrate wiring, and set jumpers.
+
 - Install the Y-axis limit switch.
+
 - Install CAN board cables and steel wires.
 
 ### 4. Display Installation
