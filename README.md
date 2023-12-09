@@ -64,9 +64,9 @@
 - Where can I download the system if mine is damaged?
 
 ## Links
-- VORON Official Website: [Link]
-- Klipper Official: [Link]
-- BTT Official: [Link]
+- VORON Official Website: https://vorondesign.com/
+- Klipper Official:https://www.klipper3d.org/
+- BTT Official: https://github.com/bigtreetech
 
 
 ### BTT links :[Octopus Pro(446)](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro)+[BTT Pi](https://github.com/bigtreetech/BTT-Pi) + [CAN RP2040](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2209%20CAN%20(RP2040))  
