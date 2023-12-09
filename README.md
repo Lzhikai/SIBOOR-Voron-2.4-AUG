@@ -31,12 +31,12 @@
 <br/><img src=https://github.com/VoronDesign/Voron-Tap/blob/main/images/RC8/RC8_rail.png width="520"/><br/>
 (The top is still secured by M3x6 SHCS)  
 
-### 3. SB Head Assembly Tutorial
-- [Link]
-    - Install the heating rod and thermistor.
-    - Set up the CAN board, illustrate wiring, and set jumpers.
-    - Install the Y-axis limit switch.
-    - Install CAN board cables and steel wires.
+### 3. Stealthburner Assembly Tutorial
+- [Assembly_Manual_Stealthburner.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Manual/Assembly_Manual_SB%EF%BC%88SIBOOR%20Annotation%20Version%EF%BC%89.pdf)
+- Install the heating rod and thermistor.
+- Set up the CAN board, illustrate wiring, and set jumpers.
+- Install the Y-axis limit switch.
+- Install CAN board cables and steel wires.
 
 ### 4. Display Installation
 
