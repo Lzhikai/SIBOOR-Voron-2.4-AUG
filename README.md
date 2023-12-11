@@ -60,8 +60,8 @@
 - Where can I find the BOM list for SIBOOR V2.4 [AUG] to verify my package?  
   Access the BOM list for SIBOOR V2.4 [AUG] [here](link).
 
-- Is it necessary to burn the system and firmware?
-  The Pi's built-in system is pre-matched with the mainboard and CAN bus. Avoid version upgrades unless issues arise.  
+- Is it necessary to burn the system and firmware?  
+  The Pi's built-in system is pre-matched with the mainboard and CAN bus. Avoid version upgrades unless issues arise. [System](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing)  
 
 - Why are some metal structural components unused?  
   Certain parts are designed for the Afterburner version and are not applicable here. Remove them before assembly.
@@ -95,9 +95,6 @@
 - Klipper Official:https://www.klipper3d.org/
 - BTT Official: https://github.com/bigtreetech
 
-
-### BTT links :[Octopus Pro(446)](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro)+[BTT Pi](https://github.com/bigtreetech/BTT-Pi) + [CAN RP2040](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2209%20CAN%20(RP2040))  
-##
 * **The pi built-in system has been matched with the motherboard and canbus. If there are no abnormalities, please do not upgrade the version at will. [(System)](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing)**
 
 # Kit related information
