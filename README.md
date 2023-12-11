@@ -29,7 +29,6 @@
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(4).jpg width="1080"/><br/>
 
 - So they will need to be secured with M3x12 and M3x16 SHCS，(The top is still secured by M3x6 SHCS)
-
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(6).jpg width="1080"/><br/>
 
 -After completing the TAP module, go directly to page 132 of the "Assembly_Manual 2.4r2 SIBOOR Annotation Version.pdf.
