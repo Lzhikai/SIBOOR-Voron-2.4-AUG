@@ -11,7 +11,7 @@
 
 - Red-highlighted sections indicate differences in metal structural components between SIBOOR V2.4 [AUG] and VORON's official BOM.
   
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page(16).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(15).jpg width="1080"/><br/>
   
 
 ### 2. TAP Assembly Tutorial
