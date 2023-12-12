@@ -11,7 +11,7 @@
 
 - Red-highlighted sections indicate differences in metal structural components between SIBOOR V2.4 [AUG] and VORON's official BOM.
   
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page(16).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(15).jpg width="1080"/><br/>
   
 
 ### 2. TAP Assembly Tutorial
@@ -20,17 +20,20 @@
 - Currently, TAP has been upgraded to the RCB version. See the differences in assembly with the old version in the following images.
   
 - Belt handling,The belts are now handled by looping around Tap_center, and secured with a printed belt cover and M3x8 BHCS:  
-<br/><img src=https://github.com/VoronDesign/Voron-Tap/blob/main/images/RC8/RC8_beltclamp.png width="520"/><br/>
+
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(2).jpg width="1080"/><br/>
 
 - the 2 M3x50 bolts are threaded up into Tap_Center, and serve to provide extra stiffening:  
-<br/><img src=https://github.com/VoronDesign/Voron-Tap/blob/main/images/RC8/RC8_stiffeners.png width="520"/><br/>
+ 
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(8).jpg width="1080"/><br/>
 
 - The heatset inserts for the center are moved back 4 mm to provide extra vibration resistance:  
-<br/><img src=https://github.com/VoronDesign/Voron-Tap/blob/main/images/RC8/RC8_heatsets.png width="520"/><br/>
 
-- So they will need to be secured with M3x12 and M3x16 SHCS:  
-<br/><img src=https://github.com/VoronDesign/Voron-Tap/blob/main/images/RC8/RC8_rail.png width="520"/><br/>
-(The top is still secured by M3x6 SHCS)
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(4).jpg width="1080"/><br/>
+
+- So they will need to be secured with M3x12 and M3x16 SHCS，(The top is still secured by M3x6 SHCS)  
+
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(6).jpg width="1080"/><br/>
 
 -After completing the TAP module, go directly to page 132 of the "Assembly_Manual 2.4r2 SIBOOR Annotation Version.pdf.
 
@@ -38,33 +41,42 @@
 
 - Install the heating rod and thermistor.
 
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(16).jpg width="1080"/><br/>
+
 - [Assembly_Manual_Stealthburner.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Manual/Assembly_Manual_SB%EF%BC%88SIBOOR%20Annotation%20Version%EF%BC%89.pdf)
 
-- Set up the CAN board, illustrate wiring, and set jumpers.
+- Set up the CAN board, illustrate wiring, and set jumpers.  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page%20(4).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(5).jpg width="1080"/><br/>  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page%20(5).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(7).jpg width="1080"/><br/>  
+ 
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(1).jpg width="1080"/><br/>  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page%20(6).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(3).jpg width="1080"/><br/>  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page%20(1).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(9).jpg width="1080"/><br/>  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page%20(2).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(18).jpg width="1080"/><br/>  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page%20(11).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(17).jpg width="1080"/><br/>  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page%20(12).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(10).jpg width="1080"/><br/>  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page%20(13).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(11).jpg width="1080"/><br/>  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page%20(14).jpg width="1080"/><br/>
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(12).jpg width="1080"/><br/>  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/To_add_to_the_page%20(9).jpg width="1080"/><br/>
+- Install the Y-axis limit switch.  
 
-- Install the Y-axis limit switch.
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(21).jpg width="1080"/><br/>  
 
-- Install CAN board cables and steel wires.
+- Install CAN board cables and steel wires.  
+
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(20).jpg width="1080"/><br/>  
+
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(19).jpg width="1080"/><br/>  
+
 
 ### 4. Display Installation
 
