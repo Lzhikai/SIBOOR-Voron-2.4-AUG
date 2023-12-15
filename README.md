@@ -101,15 +101,22 @@ Please read in the order presented on this page.
      cd ~/CanBoot/scripts
      python3 flash_can.py -i can0 -q
      ```
+   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect1.png width="1080"/><br/>    
    - The displayed UUID is the mainboard's UUID. Copy and paste it into the corresponding location in the configuration file (cfg) document.
+   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect2.png width="1080"/><br/>  
+   
 
 ### Connect the EBB CAN Board
    - Run the following command again:
      ```bash
      python3 flash_can.py -i can0 -q
      ```
+   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect3.png width="1080"/><br/>  
    - Obtain the UUID for the EBB CAN bus, copy it, and paste it into the corresponding location in the configuration file (cfg).
+   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect4.png width="1080"/><br/>
    - Click Save and restart to complete the device connection.
+   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect5.png width="1080"/><br/>  
+   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect6.png width="1080"/><br/>  
 
 ## FAQ
 
