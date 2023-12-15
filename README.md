@@ -88,6 +88,11 @@ Please read in the order presented on this page.
    - Locate your WiFi network and tap the button on the right.
    - Enter the password and click "Save."
    - After returning to the previous level, find the device's IP address in the upper right corner.
+  
+   ![Network Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/network.jpg)
+
+   After obtaining the IP address of the device, you can enter the control page by typing the IP into the browser using a computer or cell phone in the same LAN. Before officially starting debugging, please continue reading.
+    
      
 ### Log in to SSH
    - Use PuTTY software to connect to SSH.
@@ -100,23 +105,29 @@ Please read in the order presented on this page.
      ```bash
      cd ~/CanBoot/scripts
      python3 flash_can.py -i can0 -q
-     ```
-   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect1.png width="1080"/><br/>    
-   - The displayed UUID is the mainboard's UUID. Copy and paste it into the corresponding location in the configuration file (cfg) document.
-   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect2.png width="1080"/><br/>  
+     ```  
+   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect1.png width="1080"/><br/>  
    
+   - The displayed UUID is the mainboard's UUID. Copy and paste it into the corresponding location in the configuration file (cfg) document.
 
-### Connect the EBB CAN Board
+   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect2.png width="1080"/><br/> 
+
+### Connect the EBB CAN Board  
    - Run the following command again:
      ```bash
      python3 flash_can.py -i can0 -q
-     ```
+     ```  
    <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect3.png width="1080"/><br/>  
+   
    - Obtain the UUID for the EBB CAN bus, copy it, and paste it into the corresponding location in the configuration file (cfg).
-   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect4.png width="1080"/><br/>
-   - Click Save and restart to complete the device connection.
+   
+   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect4.png width="1080"/><br/> 
+   
+   - Click Save and restart to complete the device connection.  
    <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect5.png width="1080"/><br/>  
    <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect6.png width="1080"/><br/>  
+
+
 
 ## FAQ
 
