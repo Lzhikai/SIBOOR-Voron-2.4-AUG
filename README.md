@@ -95,8 +95,36 @@
 
 ### 6. Networking and Configuration  
 
-1. Before debugging, ensure MCU communication between the CAN board and the mainboard is established.
-   [Link:]
+# Instructions
+
+## Connect to WiFi
+   - Tap on the "Menu" on the display screen.
+   - Click on "Network."
+   - Locate your WiFi network and tap the button on the right.
+   - Enter the password and click "Save."
+   - After returning to the previous level, find the device's IP address in the upper right corner.
+     
+## Log in to SSH
+   - Use PuTTY software to connect to SSH.
+   - **Username:** biqu
+   - **Password:** biqu (Note: Account and password are case-sensitive.)
+
+## Connect the Octopus Pro Mainboard
+   - Use a USB cable to connect the mainboard to Pi and connect via SSH.
+   - Enter the following commands:
+     ```bash
+     cd ~/CanBoot/scripts
+     python3 flash_can.py -i can0 -q
+     ```
+   - The displayed UUID is the mainboard's UUID. Copy and paste it into the corresponding location in the configuration file (cfg) document.
+
+## Connect the EBB CAN Board
+   - Run the following command again:
+     ```bash
+     python3 flash_can.py -i can0 -q
+     ```
+   - Obtain the UUID for the EBB CAN bus, copy it, and paste it into the corresponding location in the configuration file (cfg).
+   - Click Save and restart to complete the device connection.
 
 ## FAQ
 
