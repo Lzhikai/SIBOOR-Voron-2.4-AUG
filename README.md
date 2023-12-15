@@ -1,93 +1,78 @@
 # SIBOOR-Voron-2.4-AUG
 
-## Assembly Guide，Please read in the order presented on this page.
+## Assembly Guide
+
+Please read in the order presented on this page.
 
 ### 1. Assembly Manual 2.4r2
+
 - [Assembly_Manual 2.4r2 SIBOOR Annotation Version.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Manual/Assembly_Manual_2.4r2%EF%BC%88SIBOOR%20Annotation%20Version%EF%BC%89.pdf)  
-
-- Pay close attention to manual comments.After downloading, open the file using a browser or PDF software to view the annotation content!  
-
+- Pay close attention to manual comments. After downloading, open the file using a browser or PDF software to view the annotation content!  
 - Green-highlighted sections denote variances between SIBOOR V2.4 [AUG] and VORON's official BOM.  
-
 - Red-highlighted sections indicate differences in metal structural components between SIBOOR V2.4 [AUG] and VORON's official BOM.  
   
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(15).jpg width="1080"/><br/>  
-  
+![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(15).jpg)  
 
 ### 2. TAP Assembly Tutorial  
+
 - [Assembly_Manual_Tap.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Manual/Assembly_Manual_Tap.pdf)  
 
 - Currently, TAP has been upgraded to the RCB version. See the differences in assembly with the old version in the following images.  
   
-- Belt handling,The belts are now handled by looping around Tap_center, and secured with a printed belt cover and M3x8 BHCS:  
+- **Belt handling:**
+  The belts are now handled by looping around Tap_center, and secured with a printed belt cover and M3x8 BHCS:  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(2).jpg)  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(2).jpg width="1080"/><br/>  
+- **Extra Stiffening:**
+  The 2 M3x50 bolts are threaded up into Tap_Center, and serve to provide extra stiffening:  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(8).jpg)  
 
-- the 2 M3x50 bolts are threaded up into Tap_Center, and serve to provide extra stiffening:  
- 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(8).jpg width="1080"/><br/>  
+- **Vibration Resistance:**
+  The heatset inserts for the center are moved back 4 mm to provide extra vibration resistance:  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(4).jpg)  
 
-- The heatset inserts for the center are moved back 4 mm to provide extra vibration resistance:  
+- **Secure with Screws:**
+  So they will need to be secured with M3x12 and M3x16 SHCS (The top is still secured by M3x6 SHCS):  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(6).jpg)  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(4).jpg width="1080"/><br/>  
-
-- So they will need to be secured with M3x12 and M3x16 SHCS，(The top is still secured by M3x6 SHCS)  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(6).jpg width="1080"/><br/>  
-
--After completing the TAP module, go directly to page 132 of the "Assembly_Manual 2.4r2 SIBOOR Annotation Version.pdf.  
+- After completing the TAP module, go directly to page 132 of the "Assembly_Manual 2.4r2 SIBOOR Annotation Version.pdf.  
 
 ### 3. Stealthburner Assembly Tutorial  
 
 - Install the heating rod and thermistor.  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(16).jpg width="1080"/><br/>  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(16).jpg)  
 
 - [Assembly_Manual_Stealthburner.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Manual/Assembly_Manual_SB%EF%BC%88SIBOOR%20Annotation%20Version%EF%BC%89.pdf)  
 
 - Set up the CAN board, illustrate wiring, and set jumpers.  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(5).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(7).jpg width="1080"/><br/>  
- 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(1).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(3).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(9).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(18).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(17).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(10).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(11).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(12).jpg width="1080"/><br/>  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(5).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(7).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(1).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(3).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(9).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(18).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(17).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(10).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(11).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(12).jpg)  
 
 - Install the Y-axis limit switch.  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(21).jpg width="1080"/><br/>  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(21).jpg)  
 
 - Install CAN board cables and steel wires.  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(20).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(19).jpg width="1080"/><br/>  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(20).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(19).jpg)  
 
 ### 4. Wiring and Inspection  
 
 - Versions shipped by December 13, 2023  
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="1080"/><br/>  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)  
 
 - Versions shipped after December 13, 2023  
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/1213%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="1080"/><br/>
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/1213%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)  
 
 - The official VORON assembly manual, pages 174-209 are skipped in their entirety, and you are directed to a separate PDF created by SIBOOR.  
-- [SIBOOR V2.4 AUG Wiring Schematic.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/SIBOOR%20V2.4%20AUG%20Wiring%20Schematic.pdf)) 
-
+  [SIBOOR V2.4 AUG Wiring Schematic.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/SIBOOR%20V2.4%20AUG%20Wiring%20Schematic.pdf)) 
 
 ### 5. Nevermore Installation  
 
@@ -95,21 +80,21 @@
 
 ### 6. Networking and Configuration  
 
-# Instructions
+## Instructions
 
-## Connect to WiFi
+### Connect to WiFi
    - Tap on the "Menu" on the display screen.
    - Click on "Network."
    - Locate your WiFi network and tap the button on the right.
    - Enter the password and click "Save."
    - After returning to the previous level, find the device's IP address in the upper right corner.
      
-## Log in to SSH
+### Log in to SSH
    - Use PuTTY software to connect to SSH.
    - **Username:** biqu
    - **Password:** biqu (Note: Account and password are case-sensitive.)
 
-## Connect the Octopus Pro Mainboard
+### Connect the Octopus Pro Mainboard
    - Use a USB cable to connect the mainboard to Pi and connect via SSH.
    - Enter the following commands:
      ```bash
@@ -118,7 +103,7 @@
      ```
    - The displayed UUID is the mainboard's UUID. Copy and paste it into the corresponding location in the configuration file (cfg) document.
 
-## Connect the EBB CAN Board
+### Connect the EBB CAN Board
    - Run the following command again:
      ```bash
      python3 flash_can.py -i can0 -q
@@ -129,7 +114,7 @@
 ## FAQ
 
 - Where can I find the BOM list for SIBOOR V2.4 [AUG] to verify my package?  
-  [ Access the BOM list for SIBOOR V2.4 [AUG]](link).
+  [Access the BOM list for SIBOOR V2.4 [AUG]](link).
 
 - Is it necessary to burn the system and firmware?  
   The Pi's built-in system is pre-matched with the mainboard and CAN bus. Avoid version upgrades unless issues arise. 
@@ -163,17 +148,16 @@
 
 - How can I get technical support or after-sales service?
 
-- Where can I download the system if mine is damaged?
-   [System](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing) 
+- Where can I download the system if mine is damaged?  
+  [System](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing) 
 
 ## Links
-- VORON Official Website: https://vorondesign.com/
-- Klipper Official:https://www.klipper3d.org/
-- BTT Official: https://github.com/bigtreetech
+- VORON Official Website: [https://vorondesign.com/](https://vorondesign.com/)
+- Klipper Official: [https://www.klipper3d.org/](https://www.klipper3d.org/)
+- BTT Official: [https://github.com/bigtreetech](https://github.com/bigtreetech)
 
 # Kit related information
 
-* **[Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/connection.md) ,Connection steps between motherboard and canbus.**  
+**[Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/connection.md) ,Connection steps between motherboard and canbus.**  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="380"/><br/>
-
+![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)  
