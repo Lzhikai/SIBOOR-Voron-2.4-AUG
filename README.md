@@ -118,7 +118,7 @@
   [ Access the BOM list for SIBOOR V2.4 [AUG]](link).
 
 - Is it necessary to burn the system and firmware?  
-  The Pi's built-in system is pre-matched with the mainboard and CAN bus. Avoid version upgrades unless issues arise. [System](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing)  
+  The Pi's built-in system is pre-matched with the mainboard and CAN bus. Avoid version upgrades unless issues arise. 
 
 - Why are some metal structural components unused?  
   Certain parts are designed for the Afterburner version and are not applicable here. Remove them before assembly.
@@ -150,6 +150,7 @@
 - How can I get technical support or after-sales service?
 
 - Where can I download the system if mine is damaged?
+   [System](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing) 
 
 ## Links
 - VORON Official Website: https://vorondesign.com/
