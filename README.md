@@ -141,6 +141,10 @@
 - Why are there no honeycomb skirts and fixed box panels in the kit?  
   If you didn't purchase decorative parts separately, you need to 3D print them.  [Download here](link).
 
+- Why are the motor wires for the X-axis and Y-axis not long enough?  
+  This brand of motor has a standard wire length of one meter and requires the use of the red cable and JST terminal extension included in the kit. (X) B motor is recommended to be extended to 2 meters, and Y (A) 
+  motor is recommended to be extended to 1.5 meters.
+
 - Why does the hotend lower to 150℃ before raising to the printing temperature during pre-print preparation?
 
 - How can I get technical support or after-sales service?
@@ -156,6 +160,5 @@
 
 * **[Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/connection.md) ,Connection steps between motherboard and canbus.**  
 
-* **[Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg) ,Octopus motherboard wiring diagram.**
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="380"/><br/>
 
