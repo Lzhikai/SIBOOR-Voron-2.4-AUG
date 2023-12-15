@@ -92,7 +92,7 @@
 - Versions shipped after December 13, 2023  
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/1213%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="1080"/><br/>
 
-- The official VORON assembly manual, pages 181-208 are skipped in their entirety, and you are directed to a separate PDF created by SIBOOR.  
+- The official VORON assembly manual, pages 174-209 are skipped in their entirety, and you are directed to a separate PDF created by SIBOOR.  
 - [SIBOOR V2.4 AUG Wiring Schematic.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/SIBOOR%20V2.4%20AUG%20Wiring%20Schematic.pdf)) 
 
 
