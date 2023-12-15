@@ -77,14 +77,7 @@
 
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(19).jpg width="1080"/><br/>  
 
-
-### 4. Display Installation  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(22).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(23).jpg width="1080"/><br/>  
-
-### 5. Wiring and Inspection  
+### 4. Wiring and Inspection  
 
 - Versions shipped by December 13, 2023  
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="1080"/><br/>  
@@ -96,27 +89,12 @@
 - [SIBOOR V2.4 AUG Wiring Schematic.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/SIBOOR%20V2.4%20AUG%20Wiring%20Schematic.pdf)) 
 
 
-### 6. Nevermore Installation  
+### 5. Nevermore Installation  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(1).jpg width="1080"/><br/> 
+- [Nevermore V6 Assembly Manual.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Manual/Nevermore%20V6%EF%BC%88SIBOOR%EF%BC%89.pdf) 
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(2).jpg width="1080"/><br/>  
+### 6. Networking and Configuration  
 
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(3).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(4).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(5).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(6).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(7).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(8).jpg width="1080"/><br/>  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(9).jpg width="1080"/><br/>  
-
-### 7. Networking and Configuration  
 1. Before debugging, ensure MCU communication between the CAN board and the mainboard is established.
    [Link:]
 
