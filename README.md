@@ -118,7 +118,7 @@
   [ Access the BOM list for SIBOOR V2.4 [AUG]](link).
 
 - Is it necessary to burn the system and firmware?  
-  The Pi's built-in system is pre-matched with the mainboard and CAN bus. Avoid version upgrades unless issues arise. [System](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing)  
+  The Pi's built-in system is pre-matched with the mainboard and CAN bus. Avoid version upgrades unless issues arise. 
 
 - Why are some metal structural components unused?  
   Certain parts are designed for the Afterburner version and are not applicable here. Remove them before assembly.
@@ -141,11 +141,16 @@
 - Why are there no honeycomb skirts and fixed box panels in the kit?  
   If you didn't purchase decorative parts separately, you need to 3D print them.  [Download here](link).
 
+- Why are the motor wires for the X-axis and Y-axis not long enough?  
+  This brand of motor has a standard wire length of one meter and requires the use of the red cable and JST terminal extension included in the kit. (X) B motor is recommended to be extended to 2 meters, and Y (A) 
+  motor is recommended to be extended to 1.5 meters.
+
 - Why does the hotend lower to 150℃ before raising to the printing temperature during pre-print preparation?
 
 - How can I get technical support or after-sales service?
 
 - Where can I download the system if mine is damaged?
+   [System](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing) 
 
 ## Links
 - VORON Official Website: https://vorondesign.com/
@@ -156,6 +161,5 @@
 
 * **[Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/connection.md) ,Connection steps between motherboard and canbus.**  
 
-* **[Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg) ,Octopus motherboard wiring diagram.**
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="380"/><br/>
 
