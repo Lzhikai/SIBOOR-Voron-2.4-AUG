@@ -84,7 +84,19 @@
 
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(23).jpg width="1080"/><br/>  
 
-### 5. Nevermore Installation  
+### 5. Wiring and Inspection  
+
+- Versions shipped by December 13, 2023  
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="1080"/><br/>  
+
+- Versions shipped after December 13, 2023  
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/1213%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="1080"/><br/>
+
+- The official VORON assembly manual, pages 181-208 are skipped in their entirety, and you are directed to a separate PDF created by SIBOOR.  
+- [SIBOOR V2.4 AUG Wiring Schematic.pdf]([https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/SIBOOR%20V2.4%20AUG%20Wiring%20Schematic.pdf)) 
+
+
+### 6. Nevermore Installation  
 
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(1).jpg width="1080"/><br/> 
 
@@ -103,10 +115,6 @@
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(8).jpg width="1080"/><br/>  
 
 <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Nevermore/Nevermorev6%20(9).jpg width="1080"/><br/>  
-
-### 6. Wiring and Inspection  
-
-<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg width="1080"/><br/>  
 
 ### 7. Networking and Configuration  
 1. Before debugging, ensure MCU communication between the CAN board and the mainboard is established.
