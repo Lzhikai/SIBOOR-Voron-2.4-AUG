@@ -1,4 +1,4 @@
-![image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/assets/87510573/78a637c1-3dec-4bf3-b73a-39af85701239)# SIBOOR-Voron-2.4-AUG
+# SIBOOR-Voron-2.4-AUG
 
 ## Assembly Guide
 
