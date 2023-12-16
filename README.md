@@ -80,9 +80,11 @@ Please read in the order presented on this page.
 
 ### 6. Networking and Configuration  
 
-## Instructions
-
 ### Connect to WiFi
+   - Prior to powering on the device, it is absolutely crucial to meticulously verify all electrical connections, ensuring strict adherence to the instructions, with 
+   particular emphasis on the correct polarity of the power supply. Neglecting this essential step may lead to irreversible and severe consequences, causing irreparable 
+   damage to the electrical equipment. It is imperative to follow these instructions without compromise for the safety and proper functionality of the device.
+   - Connect the power cord, turn on the switch, and wait for the display screen to light up.
    - Tap on the "Menu" on the display screen.
    - Click on "Network."
    - Locate your WiFi network and tap the button on the right.
@@ -95,9 +97,22 @@ Please read in the order presented on this page.
     
      
 ### Log in to SSH
-   - Use PuTTY software to connect to SSH.
-   - **Username:** biqu
-   - **Password:** biqu (Note: Account and password are case-sensitive.)
+ssh tools
+PUTTY
+Putty is a windows ssh client with a long history. It is a free download here.
+
+To connect with putty:
+
+Open Putty
+Enter your username and hostname in the “hostname” field, in the format <user>@<host>, for example pi@mainsailos.local
+Press the “Open” button 
+图片1
+Since this is your first time connecting to this remote machine, you will find yourself facing security warning. It should be safe to just click accept. 
+图片2
+Putty Security Alert
+You will then find yourself with a black window and a password prompt. Type your password, and press enter. It is normal for nothing to appear on the screen while you are typing the password. (Linux applications traditionally hide passwords completely rather than the more familiar dots or stars)
+图片3
+(Note: Account and password are case-sensitive.)
 
 ### Connect the Octopus Pro Mainboard
    - Use a USB cable to connect the mainboard to Pi and connect via SSH.
