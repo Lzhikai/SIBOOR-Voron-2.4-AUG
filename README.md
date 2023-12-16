@@ -1,7 +1,7 @@
 # SIBOOR-Voron-2.4-AUG
 
 ## Assembly Guide
-
+### VORON 2.4, designed by VORON DESIGN, represents an enhanced CoreXY design featuring a stable bed and a gantry that moves vertically along the Z-axis. Notably, this design introduces added complexity, incorporating features like 4-point gantry tramming for precise alignment with the print surface, additional stepper motors, and other unique elements. Furthermore, it is crafted to operate within a fully enclosed environment, making it exceptionally proficient in printing ABS or similar filaments.
 ### Thank you for purchasing the V2.4 [AUG] 3D printer kit from SIBOOR. Due to version differences, please carefully read the following steps. If you encounter any issues or difficulties, please contact us promptly. Wishing you a smooth experience ahead.
 ### Join our Discord and WeChat groups to receive after-sales support.
 
@@ -159,7 +159,8 @@ To connect with Putty:
 
    <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect6.png width="1080"/><br/>  
 
-
+### Congratulations on reaching this point! You've done an excellent job. With the hardware assembly now complete, the next step involves device debugging. This is a phase that requires patience and a bit of learning. We recommend returning to the community for guidance on the upcoming steps.
+   - https://docs.vorondesign.com/build/startup/
 
 ## FAQ
 
@@ -198,9 +199,6 @@ To connect with Putty:
 
 - Why does the hotend lower to 150℃ before raising to the printing temperature during pre-print preparation?  
   This is to prevent damage to the print bed in the event that the hot end heats up to high temperatures.
-
-- How can I get technical support or after-sales service?
-  
 
 - Where can I download the system if mine is damaged?  
   [System](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing) 
