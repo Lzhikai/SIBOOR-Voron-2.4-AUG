@@ -1,8 +1,11 @@
-# SIBOOR-Voron-2.4-AUG
+![image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/assets/87510573/78a637c1-3dec-4bf3-b73a-39af85701239)# SIBOOR-Voron-2.4-AUG
 
 ## Assembly Guide
 
 ### Thank you for purchasing the V2.4 [AUG] 3D printer kit from SIBOOR. Due to version differences, please carefully read the following steps. If you encounter any issues or difficulties, please contact us promptly. Wishing you a smooth experience ahead.
+### "Join our Discord and WeChat groups to receive after-sales support."
+
+ <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/DISCORD.jpg width="1080"/><br/>  
 
 ### Please read in the order presented on this page.
 
@@ -167,7 +170,9 @@ To connect with Putty:
   The Pi's built-in system is pre-matched with the mainboard and CAN bus. Avoid version upgrades unless issues arise. 
 
 - Why are some metal structural components unused?  
-  Certain parts are designed for the Afterburner version and are not applicable here. Remove them before assembly.
+  Certain parts are designed for the Afterburner version and are not applicable here. Remove them before assembly.  
+
+  <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/untitled.338.jpg width="1080"/><br/>  
 
 - Why are some screws in different positions from the official instructions?  
   Due to metal processing and weight reduction, some screws differ. See red annotations in Assembly_Manual_2.4r2.
