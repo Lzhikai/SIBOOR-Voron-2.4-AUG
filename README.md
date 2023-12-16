@@ -3,7 +3,7 @@
 ## Assembly Guide
 
 ### Thank you for purchasing the V2.4 [AUG] 3D printer kit from SIBOOR. Due to version differences, please carefully read the following steps. If you encounter any issues or difficulties, please contact us promptly. Wishing you a smooth experience ahead.
-### "Join our Discord and WeChat groups to receive after-sales support."
+### Join our Discord and WeChat groups to receive after-sales support.
 
  <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/DISCORD.jpg width="1080"/><br/>  
 
