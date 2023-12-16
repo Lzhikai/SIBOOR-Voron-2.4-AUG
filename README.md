@@ -2,7 +2,9 @@
 
 ## Assembly Guide
 
-Please read in the order presented on this page.
+### Thank you for purchasing the V2.4 [AUG] 3D printer kit from SIBOOR. Due to version differences, please carefully read the following steps. If you encounter any issues or difficulties, please contact us promptly. Wishing you a smooth experience ahead.
+
+### Please read in the order presented on this page.
 
 ### 1. Assembly Manual 2.4r2
 
