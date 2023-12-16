@@ -97,29 +97,28 @@ Please read in the order presented on this page.
     
      
 ### Log in to SSH
-# SSH Tools
-
-## PUTTY
+### SSH Tools PUTTY
 
 Putty is a Windows SSH client with a long history. It is available as a free download [here](https://www.putty.org/).
 
 To connect with Putty:
 
-1. Open Putty
-2. Enter your username and hostname in the “hostname” field, in the format `<user>@<host>`, for example, `biqu@BTT-CB1`,Certainly. You can also connect to the device directly using the IP address, for example: `pi@192.168.50.87`.  
-3. Press the “Open” button
+- Open Putty
+- Enter your username and hostname in the “hostname” field, in the format `<user>@<host>`, for example, `biqu@BTT-CB1`,Certainly.
+- You can also connect to the device directly using the IP address, for example: `pi@192.168.50.87`.  
+- Press the “Open” button
 
    ![Putty Image 1](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/ssh1.jpg)
 
 Since this is your first time connecting to this remote machine, you will encounter a security warning. It should be safe to just click accept.
 
-   ![Putty Image 2](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/ssh2.jpg)
+   ![Putty Image 2](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/ssh2.png)
 
 ### Putty Security Alert
 
 You will then find yourself with a black window and a password prompt. Type your password and press enter. It is normal for nothing to appear on the screen while you are typing the password. (Linux applications traditionally hide passwords completely rather than the more familiar dots or stars)
 
-   ![Putty Image 3](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/ssh3.jpg)
+   ![Putty Image 3](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/ssh3.png)
 
 *Note: Account and password are case-sensitive.*
 
