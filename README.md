@@ -130,7 +130,8 @@ To connect with Putty:
 
 
 ### Connect the Octopus Pro Mainboard
-   - Use a USB cable to connect the mainboard to Pi and connect via SSH.
+   - To use the SSH tool to obtain the UUIDs and establish a connection with the OCTOPUS PRO mainboard and EBB 2209 CAN board, make sure to disconnect the cables between the EBB 2209 CAN board and the OCTOPUS PRO mainboard 
+   before you begin. This will facilitate the differentiation of the UUIDs for these two boards.
    - Enter the following commands:
      ```bash
      cd ~/CanBoot/scripts
@@ -143,6 +144,7 @@ To connect with Putty:
    <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect2.png width="1080"/><br/> 
 
 ### Connect the EBB CAN Board  
+   - Reinstall the cables that were just removed onto the OCTOPUS PRO mainboard. Next, let's proceed to read the UUID of the EBB 2209 CAN board.
    - Run the following command again:
      ```bash
      python3 flash_can.py -i can0 -q
