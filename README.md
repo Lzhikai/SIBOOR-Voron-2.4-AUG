@@ -191,9 +191,11 @@ To connect with Putty:
   This brand of motor has a standard wire length of one meter and requires the use of the red cable and JST terminal extension included in the kit. (X) B motor is recommended to be extended to 2 meters, and Y (A) 
   motor is recommended to be extended to 1.5 meters.
 
-- Why does the hotend lower to 150℃ before raising to the printing temperature during pre-print preparation?
+- Why does the hotend lower to 150℃ before raising to the printing temperature during pre-print preparation?  
+  This is to prevent damage to the print bed in the event that the hot end heats up to high temperatures.
 
 - How can I get technical support or after-sales service?
+  
 
 - Where can I download the system if mine is damaged?  
   [System](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing) 
