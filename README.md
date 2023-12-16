@@ -209,9 +209,3 @@ To connect with Putty:
 - VORON Official Website: [https://vorondesign.com/](https://vorondesign.com/)
 - Klipper Official: [https://www.klipper3d.org/](https://www.klipper3d.org/)
 - BTT Official: [https://github.com/bigtreetech](https://github.com/bigtreetech)
-
-# Kit related information
-
-**[Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/connection.md) ,Connection steps between motherboard and canbus.**  
-
-![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)  
