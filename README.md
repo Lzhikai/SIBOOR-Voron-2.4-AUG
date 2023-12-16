@@ -144,12 +144,14 @@ To connect with Putty:
      ```  
    <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect3.png width="1080"/><br/>  
    
-   - Obtain the UUID for the EBB CAN bus, copy it, and paste it into the corresponding location in the configuration file (cfg).
+   - Obtain the UUID for the EBB CAN bus, copy it, and paste it into the corresponding location in the configuration file (cfg).  
    
    <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect4.png width="1080"/><br/> 
    
-   - Click Save and restart to complete the device connection.  
-   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect5.png width="1080"/><br/>  
+   - Click Save and restart to complete the device connection.
+
+   <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect5.png width="1080"/><br/>
+
    <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect6.png width="1080"/><br/>  
 
 
