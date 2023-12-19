@@ -1,18 +1,20 @@
 # SIBOOR-Voron-2.4-AUG  
 
 [1. Assembly Manual 2.4r2](#1-assembly-manual-24r2)  
-
+ 
 [2. TAP Assembly Tutorial](#2-tap-assembly-tutorial)  
 
-[3. Stealthburner Assembly Tutorial and Y-axis limit](#3-stealthburner-assembly-tutorial)  
+[3. Stealthburner Assembly Tutorial](#3-stealthburner-assembly-tutorial)  
+ - [Y-axis limit](#y-axis-limit)  
+ - [Display assembly](#display-assembly)
 
 [4. Wiring and Inspection](#4-wiring-and-inspection)  
 
 [5. Nevermore Installation](#5-nevermore-installation)  
 
 [6. Networking and Configuration](#6-networking-and-configuration)  
- - [6.1 Connect to WiFi](#connect-to-wifi)
- - [6.2 SSH Tools PUTTY](#ssh-tools-putty)
+ - [Connect to WiFi](#connect-to-wifi)
+ - [SSH Tools PUTTY](#ssh-tools-putty)
 
 [7. Connect the motherboard and EBB CAN Board](#connect-the-octopus-pro-mainboard)  
 
@@ -81,9 +83,11 @@
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(17).jpg)  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(10).jpg)  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(11).jpg)  
-  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(12).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(12).jpg)
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/SIBOOR%V2.4%AUG%Wiring%Schematic_01.jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/SIBOOR%V2.4%AUG%Wiring%Schematic_02.jpg)
 
-- Install the Y-axis limit switch.  
+### Install the Y-axis limit switch.  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(21).jpg)  
 
 - Install CAN board cables and steel wires.  
