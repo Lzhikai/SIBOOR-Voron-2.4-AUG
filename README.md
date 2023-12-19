@@ -4,13 +4,17 @@
 
 [2. TAP Assembly Tutorial](#2-tap-assembly-tutorial)  
 
-[3. Stealthburner Assembly Tutorial](#3-stealthburner-assembly-tutorial)  
+[3. Stealthburner Assembly Tutorial and Y-axis limit](#3-stealthburner-assembly-tutorial)  
 
 [4. Wiring and Inspection](#4-wiring-and-inspection)  
 
 [5. Nevermore Installation](#5-nevermore-installation)  
 
-[6.Log in to SSH](#log-in-to-ssh)  
+[6. Networking and Configuration](#6-networking-and-configuration)  
+ - [6.1 Connect to WiFi](#connect-to-wifi)
+ - [6.2 SSH Tools PUTTY](#ssh-tools-putty)
+
+[7. Connect the motherboard and EBB CAN Board](#connect-the-octopus-pro-mainboard)  
 
  - [Connect the Octopus Pro Mainboard](#connect-the-octopus-pro-mainboard)  
 
