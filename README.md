@@ -84,8 +84,8 @@
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(10).jpg)  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(11).jpg)  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(12).jpg)
-  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/SIBOOR%V2.4%AUG%Wiring%Schematic_01.jpg)  
-  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/SIBOOR%V2.4%AUG%Wiring%Schematic_02.jpg)
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/SIBOOR%20V2.4%20AUG%20Wiring%20Schematic_01.jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/SIBOOR%20V2.4%20AUG%20Wiring%20Schematic_02.jpg)
 
 ### Install the Y-axis limit switch.  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(21).jpg)  
