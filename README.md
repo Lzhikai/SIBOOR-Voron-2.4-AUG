@@ -1,8 +1,11 @@
 # SIBOOR-Voron-2.4-AUG
 
 ## Assembly Guide
-
+### VORON 2.4, designed by VORON DESIGN, represents an enhanced CoreXY design featuring a stable bed and a gantry that moves vertically along the Z-axis. Notably, this design introduces added complexity, incorporating features like 4-point gantry tramming for precise alignment with the print surface, additional stepper motors, and other unique elements. Furthermore, it is crafted to operate within a fully enclosed environment, making it exceptionally proficient in printing ABS or similar filaments.
 ### Thank you for purchasing the V2.4 [AUG] 3D printer kit from SIBOOR. Due to version differences, please carefully read the following steps. If you encounter any issues or difficulties, please contact us promptly. Wishing you a smooth experience ahead.
+### Join our Discord and WeChat groups to receive after-sales support.
+
+ <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/DISCORD.jpg width="1080"/><br/>  
 
 ### Please read in the order presented on this page.
 
@@ -127,7 +130,8 @@ To connect with Putty:
 
 
 ### Connect the Octopus Pro Mainboard
-   - Use a USB cable to connect the mainboard to Pi and connect via SSH.
+   - To use the SSH tool to obtain the UUIDs and establish a connection with the OCTOPUS PRO mainboard and EBB 2209 CAN board, make sure to disconnect the cables between the EBB 2209 CAN board and the OCTOPUS PRO mainboard 
+   before you begin. This will facilitate the differentiation of the UUIDs for these two boards.
    - Enter the following commands:
      ```bash
      cd ~/CanBoot/scripts
@@ -140,6 +144,7 @@ To connect with Putty:
    <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect2.png width="1080"/><br/> 
 
 ### Connect the EBB CAN Board  
+   - Reinstall the cables that were just removed onto the OCTOPUS PRO mainboard. Next, let's proceed to read the UUID of the EBB 2209 CAN board.
    - Run the following command again:
      ```bash
      python3 flash_can.py -i can0 -q
@@ -156,7 +161,8 @@ To connect with Putty:
 
    <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/connect6.png width="1080"/><br/>  
 
-
+### Congratulations on reaching this point! You've done an excellent job. With the hardware assembly now complete, the next step involves device debugging. This is a phase that requires patience and a bit of learning. We recommend returning to the community for guidance on the upcoming steps.
+   - https://docs.vorondesign.com/build/startup/
 
 ## FAQ
 
@@ -167,7 +173,9 @@ To connect with Putty:
   The Pi's built-in system is pre-matched with the mainboard and CAN bus. Avoid version upgrades unless issues arise. 
 
 - Why are some metal structural components unused?  
-  Certain parts are designed for the Afterburner version and are not applicable here. Remove them before assembly.
+  Certain parts are designed for the Afterburner version and are not applicable here. Remove them before assembly.  
+
+  <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/untitled.338.jpg width="1080"/><br/>  
 
 - Why are some screws in different positions from the official instructions?  
   Due to metal processing and weight reduction, some screws differ. See red annotations in Assembly_Manual_2.4r2.
@@ -194,9 +202,6 @@ To connect with Putty:
 - Why does the hotend lower to 150℃ before raising to the printing temperature during pre-print preparation?  
   This is to prevent damage to the print bed in the event that the hot end heats up to high temperatures.
 
-- How can I get technical support or after-sales service?
-  
-
 - Where can I download the system if mine is damaged?  
   [System](https://drive.google.com/file/d/1oGNcbJPUD5zyJWyPYAsPpvsBOQSKj1cR/view?usp=sharing) 
 
@@ -204,9 +209,3 @@ To connect with Putty:
 - VORON Official Website: [https://vorondesign.com/](https://vorondesign.com/)
 - Klipper Official: [https://www.klipper3d.org/](https://www.klipper3d.org/)
 - BTT Official: [https://github.com/bigtreetech](https://github.com/bigtreetech)
-
-# Kit related information
-
-**[Click here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/connection.md) ,Connection steps between motherboard and canbus.**  
-
-![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)  
