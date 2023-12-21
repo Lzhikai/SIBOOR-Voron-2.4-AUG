@@ -89,9 +89,9 @@
 
 ### Install the Y-axis limit switch.  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(21).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(20).jpg)  
 
 - Install CAN board cables and steel wires.  
-  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(20).jpg)  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(19).jpg)  
 
 ### 4. Wiring and Inspection  
@@ -190,6 +190,9 @@ To connect with Putty:
 ### Congratulations on reaching this point! You've done an excellent job. With the hardware assembly now complete, the next step involves device debugging. This is a phase that requires patience and a bit of learning. We recommend returning to the community for guidance on the upcoming steps.
    - https://docs.vorondesign.com/build/startup/
 
+   -![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(22).jpg) 
+
+   
 ## FAQ
 
 - Where can I find the BOM list for SIBOOR V2.4 [AUG] to verify my package?  
