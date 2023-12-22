@@ -100,9 +100,22 @@
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/0928%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)  
 
 - Versions shipped after December 13, 2023  
-  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/1213%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/1213%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)
 
-- The official VORON assembly manual, pages 174-209 are skipped in their entirety, and you are directed to a separate PDF created by SIBOOR.  
+## Version Update Notice: Board Output Adjustment
+
+In this version, a significant upgrade has been implemented by successfully adjusting the board output from `BED_OUT` to `HE1`. This change aims to further optimize system performance.
+
+### Debugging Consideration: Bed Heating Issues
+
+If you encounter difficulties with bed heating during debugging, carefully inspect the `printer.cfg` file for bed configuration. Ensure that the bed heating pin is correctly set to `PA3`. Here is an example of the relevant configuration:
+
+```yaml
+[heater_bed]
+heater_pin: PA3              # (BE0)
+``` 
+
+### The official VORON assembly manual, pages 174-209 are skipped in their entirety, and you are directed to a separate PDF created by SIBOOR.  
   [SIBOOR V2.4 AUG Wiring Schematic.pdf](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/SIBOOR%20V2.4%20AUG%20Wiring%20Schematic.pdf)) 
 
 ### 5. Nevermore Installation  
