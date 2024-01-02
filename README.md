@@ -235,7 +235,7 @@ To connect with Putty:
   Removing the X and Y axis drag chains increases visible space, but printing height is still limited. For example, the 300 model can print up to around 280mm, and the 350 model up to around 330mm.
 
 - Why are there no honeycomb skirts and fixed box panels in the kit?  
-  If you didn't purchase decorative parts separately, you need to 3D print them.  [Download here](link).
+  If you didn't purchase decorative parts separately, you need to 3D print them.  [Download here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/tree/main/STLs/Decorative%20print%20stl).
 
 - Why are the motor wires for the X-axis and Y-axis not long enough?  
   This brand of motor has a standard wire length of one meter and requires the use of the red cable and JST terminal extension included in the kit. (X) B motor is recommended to be extended to 2 meters, and Y (A) 
