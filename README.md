@@ -209,7 +209,7 @@ To connect with Putty:
 ## FAQ
 
 - Where can I find the BOM list for SIBOOR V2.4 [AUG] to verify my package?  
-  [Access the BOM list for SIBOOR V2.4 [AUG]](link).
+  [Access the BOM list for SIBOOR V2.4 [AUG]](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/SIBOOR_V2.4_AUG_BOM.md)).
 
 - Is it necessary to burn the system and firmware?  
   The Pi's built-in system is pre-matched with the mainboard and CAN bus. Avoid version upgrades unless issues arise. 
