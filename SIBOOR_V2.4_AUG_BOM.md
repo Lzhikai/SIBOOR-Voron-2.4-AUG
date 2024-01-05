@@ -64,7 +64,8 @@
 | Electronics          | PT1000 Thermistor                                                | See left side                                         | Siboor              | 1    |
 | Electronics          | Octopus Pro (STM446) board                                       | See left side                                         | BigTreeTech         | 1    |
 | Electronics          | BTT 2209 (RP2040) CAN Board                                      | See left side                                         | BigTreeTech         | 1    |
-| Electronics          | φ0.8mm Steel Wire（1000mm）                                        | See left side                                         | /                   | 1    |
+| Electronics          | φ0.8mm Steel Wire（1000mm）                                      | See left side                                         | /                   | 1    |
+| Electronics          | CAN adapter cable                                                | See left side                                         | /                   | 1    |
 | Electronics          | 6mm Nylon Cable Sleeve(1000mm)                                   | See left side                                         | /                   | 1    |
 | Electronics          | Bend-resistant Cable Waterproof Connector PG7                    | See left side                                         | /                   | 1    |
 | Electronics          | 4010 Fan 24V                                                     | See left side                                         | Sunon               | 1    |
