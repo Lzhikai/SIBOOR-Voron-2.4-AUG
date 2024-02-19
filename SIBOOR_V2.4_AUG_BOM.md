@@ -1,6 +1,16 @@
 ## This list only for reference.  
 ## Under special situations, parts will updated to same level and quality products.
 
+Dear customers,
+
+Starting from February 4th, 2024, we will be implementing an important upgrade to our orders. In order to enhance product performance and quality, we will be replacing the Tap leveling system with the Cartographer Eddy Levelling Sensor. This upgrade will ensure more accurate and reliable performance, guaranteeing you a better experience during use.
+
+Additionally, we need to inform you that due to the early Chinese New Year holiday at Mismi Corporation, we are unable to procure the Mismi brand extrusions as usual. Therefore, starting from February 4th, 2024, we will temporarily use extrusions from another brand. These extrusions have the same material, craftsmanship, and cross-section as the Mismi ones, but they have a matte surface texture instead of a glossy finish. We assure you that the quality and performance of the new extrusions will not be affected.
+
+We sincerely apologize for any inconvenience this may cause you, but please rest assured that we will do our utmost to ensure that the quality and performance of our products remain unaffected. If you have any questions or concerns regarding these changes, please feel free to contact our customer service team, and we will be more than happy to assist you.
+
+Thank you for your understanding and continued support.
+
 | Form                 | Part Description[300 Model]                                     | Part Description[350 Model]                          | Note                | Qty |
 |----------------------|------------------------------------------------------------------|-------------------------------------------------------|---------------------|------|
 | In the tools box     | M5x40 SHCS                                                       | See left side                                         | 10.9 Nickel plating | 26   |
