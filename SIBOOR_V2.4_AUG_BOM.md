@@ -68,8 +68,8 @@ Thank you for your understanding and continued support.
 | Electronics          | HDMI 5-inch Touchscreen                                          | See left side                                         | BigTreeTech         | 1    |
 | Electronics          | Power Supply LRS-200-24                                          | See left side                                         | Mean Well           | 1    |
 | Electronics          | Nevermore V6 Kit                                                 | See left side                                         | /                   | 1    |
-| Electronics          | TAP RC8 Kit                                                      | See left side                                         | Siboor              | 1    |
-| Electronics          | Dragon HF Hotend （Blue）                                          | See left side                                         | Phaetus             | 1    |
+| Electronics          | Cartographer eddy levelling sensor                               | See left side                                         | Cartographer×Siboor  | 1    |
+| Electronics          | Dragon HF Hotend （Blue）                                        | See left side                                         | Phaetus             | 1    |
 | Electronics          | Heating Rod 24V 65W                                              | See left side                                         | Siboor              | 1    |
 | Electronics          | PT1000 Thermistor                                                | See left side                                         | Siboor              | 1    |
 | Electronics          | Octopus Pro (STM446) board                                       | See left side                                         | BigTreeTech         | 1    |
