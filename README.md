@@ -3,9 +3,11 @@
 [1. Assembly Manual 2.4r2](#1-assembly-manual-24r2)  
  
 [2. TAP Assembly Tutorial](#2-tap-assembly-tutorial)  
+ - [TAP](#2-tap-assembly-tutorial)
+ - [Cartographer3d](https://docs.cartographer3d.com)
 
 [3. Stealthburner Assembly Tutorial](#3-stealthburner-assembly-tutorial)  
- - [Y-axis limit](#y-axis-limit)  
+ - [Y-axis limit](#install-the-y-axis-limit-switch)  
  - [Display assembly](#display-assembly)
 
 [4. Wiring and Inspection](#4-wiring-and-inspection)  
@@ -84,10 +86,12 @@
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(10).jpg)  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(11).jpg)  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(12).jpg)
+  
+### Display-Assembly  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/SIBOOR%20V2.4%20AUG%20Wiring%20Schematic_01.jpg)  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/SIBOOR%20V2.4%20AUG%20Wiring%20Schematic_02.jpg)
 
-### Install the Y-axis limit switch.  
+### Install the Y-axis limit switch   
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(21).jpg)  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(20).jpg)  
 
