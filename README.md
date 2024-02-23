@@ -2,9 +2,9 @@
 
 [1. Assembly Manual 2.4r2](#1-assembly-manual-24r2)  
  
-[2. TAP Assembly Tutorial](#2-tap-assembly-tutorial)  
- - [TAP](#2-tap-assembly-tutorial)
- - [Cartographer3d](https://docs.cartographer3d.com)
+[2. Leveling plan](#2-tap-assembly-tutorial)  
+ - [TAP Assembly Tutorial](#2-tap-assembly-tutorial)
+ - [Cartographer3d Assembly Tutorial](https://docs.cartographer3d.com)
 
 [3. Stealthburner Assembly Tutorial](#3-stealthburner-assembly-tutorial)  
  - [Y-axis limit](#install-the-y-axis-limit-switch)  
