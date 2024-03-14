@@ -6,8 +6,8 @@
  - [TAP Assembly Tutorial](#2-tap-assembly-tutorial)
  - [Cartographer3d official website](https://docs.cartographer3d.com)
  - [Cartographer3d Assembly Tutorial](#3-cartographer3d-assembly-tutorial)  
-    ---[(Printed version)](printed-version)  
-    ---[(CNC version)](cnc-version)
+    ---(Printed version)---  
+    ---(CNC version)---  
 
 [3. Stealthburner Assembly Tutorial](#4-stealthburner-assembly-tutorial)  
  - [Y-axis limit](#install-the-y-axis-limit-switch)  
