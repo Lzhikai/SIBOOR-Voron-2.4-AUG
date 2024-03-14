@@ -4,9 +4,12 @@
  
 [2. Leveling plan](#2-tap-assembly-tutorial)  
  - [TAP Assembly Tutorial](#2-tap-assembly-tutorial)
- - [Cartographer3d Assembly Tutorial](https://docs.cartographer3d.com)
+ - [Cartographer3d official website](https://docs.cartographer3d.com)
+ - [Cartographer3d Assembly Tutorial](#3-cartographer3d-assembly-tutorial)  
+    ---[(Printed version)](printed-version)  
+    ---[(CNC version)](cnc-version)
 
-[3. Stealthburner Assembly Tutorial](#3-stealthburner-assembly-tutorial)  
+[3. Stealthburner Assembly Tutorial](#4-stealthburner-assembly-tutorial)  
  - [Y-axis limit](#install-the-y-axis-limit-switch)  
  - [Display assembly](#display-assembly)
 
@@ -68,7 +71,16 @@
 
 - After completing the TAP module, go directly to page 132 of the "Assembly_Manual 2.4r2 SIBOOR Annotation Version.pdf.  
 
-### 3. Stealthburner Assembly Tutorial  
+### 3. Cartographer3d Assembly Tutorial  
+- ### Printed version
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/cartographer(1).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/cartographer(2).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/cartographer(3).jpg)
+- ### CNC version
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/cartographer(4).jpg)  
+  ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/cartographer(5).jpg)  
+  
+### 4. Stealthburner Assembly Tutorial  
 
 - Install the heating rod and thermistor.  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/To_add_to_the%20page/supplementary%20page%20%20(16).jpg)  
