@@ -5,7 +5,7 @@
     login as: biqu
     password: biqu  
 ## OS image
-* The latest system image is [here](https://drive.google.com/file/d/1VgO3OKcQAX13cF3s93GIxDW8_OjxlwhL/view?usp=drive_link). （The TF card included in the kit has already burned the system, and there is no need to burn it again. This is to prevent system damage from being used in the future.）
+* The latest system image is [here](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/releases). （The TF card included in the kit has already burned the system, and there is no need to burn it again. This is to prevent system damage from being used in the future.）
 ## WIFI Settings
 * After the OS writes to the SD card, there is a FAT32 partition named `BOOT`, open `system.cfg` file with `Notpad`, `Notpad++` or `VSCode`.
 <br/><img src=https://github.com/bigtreetech/CB1/blob/master/Images/system.png width="800"/><br/>
