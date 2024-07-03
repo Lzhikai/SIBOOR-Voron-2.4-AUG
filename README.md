@@ -36,7 +36,6 @@
 
  <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/DISCORD.jpg width="1080"/><br/>  
 
-![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/cartographer%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)  
 ### Please read in the order presented on this page.
 
 ### 1. Assembly Manual 2.4r2
@@ -118,6 +117,9 @@
 
 - Versions shipped after December 13, 2023  
   ![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/1213%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)
+
+- Versions cartographer 
+![Image](https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/Octopus_Board_Wiring/cartographer%20SIBOOR%20V2.4%20R2%20AUG%20Wiring%20Diagram.jpg)  
 
 ## Version Update Notice: Board Output Adjustment
 
