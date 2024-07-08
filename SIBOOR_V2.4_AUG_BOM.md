@@ -55,7 +55,7 @@ Thank you for your understanding and continued support.
 | Tool                 | trimming knife                                                   | See left side                                         | /                   | 1    |
 | Tool                 | Pipe clamp knife                                                 | See left side                                         | /                   | 1    |
 | Tool                 | Cable Management Channel 25×25×38cm                              | See left side                                         | /                   | 4    |
-| Tool                 | 200g PLA Filament（Test filament）                                 | See left side                                         |                     | 1    |
+| Tool                 | 200g PLA Filament（Test filament）                               | See left side                                         |                     | 1    |
 | Electronics          | TMC2240 Driver                                                   | See left side                                         | BigTreeTech         | 2    |
 | Electronics          | TMC2209 Driver                                                   | See left side                                         | BigTreeTech         | 4    |
 | Electronics          | BTT PI                                                           | See left side                                         | BigTreeTech         | 1    |
@@ -63,8 +63,8 @@ Thank you for your understanding and continued support.
 | Electronics          | Solid State Relay CDG1-1DA 10A                                   | See left side                                         | Delixi              | 1    |
 | Electronics          | X Endstop Switch (150mm)                                         | See left side                                         | Siboor              | 1    |
 | Electronics          | Y Endstop Switch (1500mm)                                        | See left side                                         | Siboor              | 1    |
-| Electronics          | Nema17Motor 17HS19-2004S                                         | See left side                                         | stepperonline       | 6    |
-| Electronics          | Nema14Motor 14RE08-1004S-H                                       | See left side                                         | stepperonline       | 1    |
+| Electronics          | Nema17Motor SIBOOR-42STH48-2504  Class H(185℃)                  | See left side                                         | SIBOOR              | 6    |
+| Electronics          | Nema14Motor SIBOOR-14STH20-1004A  Class H(185℃)                 | See left side                                         | SIBOOR              | 1    |
 | Electronics          | HDMI 5-inch Touchscreen                                          | See left side                                         | BigTreeTech         | 1    |
 | Electronics          | Power Supply LRS-200-24                                          | See left side                                         | Mean Well           | 1    |
 | Electronics          | Nevermore V6 Kit                                                 | See left side                                         | /                   | 1    |
