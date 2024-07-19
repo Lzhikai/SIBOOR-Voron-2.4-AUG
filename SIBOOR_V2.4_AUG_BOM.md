@@ -113,11 +113,11 @@ Thank you for your understanding and continued support.
 | Cables               | Fork-shaped Power Terminal Wire                                  | See left side                                         | /                   | 3    |
 | Cables               | WAGO 221-415                                                     | See left side                                         | WAGO                | 3    |
 | Vibration Management | "Rubber Foot (1.5x.75"", 38x19mm)"                               | See left side                                         | /                   | 4    |
-| Panels               | Coroplast Sheet - 433x453x4 mm                                   | Coroplast Sheet - 469x469x4 mm                        | PC panel            | 1    |
-| Panels               | Coroplast Sheet - 419x419x4 mm                                   | Coroplast Sheet - 483x503x4 mm                        | PC panel            | 2    |
-| Panels               | PC panel Clear - 433x453x3 mm                                    | PC panel Clear - 241.5x503x3 mm                  | PC panel            | 2    |
-| Panels               | PC panel Clear - 433x433x3 mm                                    | PC panel Sheet Clear - 483x503x3 mm                    | PC panel            | 1    |
-| Panels               | PC panel Clear - 216.5x453x3 mm                                  | PC panel Sheet Clear - 483x483x3 mm                    | PC panel            | 2    |
+| Panels               | Coroplast Sheet - 433x453x4 mm                                   | Coroplast Sheet - 483x503x4 mm                        | PC panel            | 1    |
+| Panels               | Coroplast Sheet - 419x419x4 mm                                   | Coroplast Sheet - 469x469x4 mm                        | PC panel            | 2    |
+| Panels               | PC panel Clear - 433x453x3 mm                                    | PC panel Sheet Clear - 483x503x3 mm                   | PC panel            | 2    |
+| Panels               | PC panel Clear - 433x433x3 mm                                    | PC panel Sheet Clear - 483x483x3 mm                   | PC panel            | 1    |
+| Panels               | PC panel Clear - 216.5x453x3 mm                                  | PC panel Clear - 241.5x503x3 mm                       | PC panel            | 2    |
 | Buildplate           | PEI Board 300×300mm                                              | PEI Board 350×350mm                                   | Siboor              | 1    |
 | Buildplate           | "MIC6 5/16"" Plate - 300x300mm"                                  | "MIC6 5/16"" Plate - 350x350mm"                       | Siboor              | 1    |
 | Buildplate           | Imported Silicone Hotbed 250² (220V/110V 450W Hotbed)            | Imported Silicone Hotbed 300² (220V/110V 650W Hotbed) | Siboor              | 1    |
